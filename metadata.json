@@ -1,0 +1,8 @@
+{
+  "name": "EduSMK Realtime - Portal Absensi & Nilai Guru SMK",
+  "description": "Aplikasi interaktif guru SMK untuk mengelola absensi real-time, nilai siswa transparan, tugas harian, materi pembelajaran, notifikasi orang tua, dan analitik evaluasi pengajaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
